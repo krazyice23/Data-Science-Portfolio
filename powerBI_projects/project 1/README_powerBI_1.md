@@ -191,20 +191,6 @@ Repeat this for other images like demographics, performance tracker, etc.
 
 ---
 
-## 📂 File Structure Suggestion
-```
-📁 HR-Analytics-Dashboard/
-├── assets/
-│   ├── overview.png
-│   ├── demographics.png
-│   ├── tracker.png
-│   ├── attrition.png
-├── PowerBI portfolio 1.pdf
-├── README.md
-```
-
----
-
 ## ✅ Tools Used
 - Power BI
 - DAX (CALCULATE, USERELATIONSHIP, FORMAT, etc.)
