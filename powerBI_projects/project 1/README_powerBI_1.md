@@ -73,7 +73,7 @@ For high-level leadership tracking key employee metrics such as attrition.
 
 ## 📍 Page 2: **Demographics**
 
-![demographics](assets/powerBI_page2.png)
+![demographics](assets/powerBI_page2new.png)
 
 ### 🔑 Key Insights:
 - The organization has a fairly diverse age group, with employees ranging from early career to pre-retirement age.
