@@ -91,7 +91,7 @@ Focuses on diversity and inclusion.
   - Oldest Employee
 
 - **Age Bins**: created using Power Query → `AgeBins` column
-  ![conditional column](assets/powerBI_conditionColumn.png)
+  ![conditional column](assets/powerBI_demo_conditionColumn.png)
 
 - **Bar Chart**: Employees by `AgeBins` and `Gender`
 - **Column & Line Combo Chart**: 
@@ -196,8 +196,8 @@ Provides deeper insight into attrition causes and trends.
 ## 📚 References & Attribution
 
 This project was completed as part of a DataCamp course:
-- **Course**: [DataCamp - Power BI: Dashboards & HR Analytics Case Study](https://www.datacamp.com)
-- **Case Study**: HR Analytics for Atlas Labs
+- **Course**: [DataCamp - Data Analyst in PowerBI](https://app.datacamp.com/learn/career-tracks/data-analyst-in-power-bi)
+- **Case Study**: [HR Analytics in PowerBI](https://app.datacamp.com/learn/courses/case-study-hr-analytics-in-power-bi)
 
 All data and case study context are part of the DataCamp learning materials. This project is shared here solely as a personal portfolio example.
 
